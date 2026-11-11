@@ -21,3 +21,6 @@ Use invite code **ARKHZZ** when you join and you get **1,000,000,000 free tokens
 - If an age-verification prompt stalls during setup, linking a **Facebook account** for age verification has worked as an alternative.
 
 *Shared by Leo Park, a Muse Power subscriber in South Korea who uses Muse daily for work automation.*
+
+
+Status (Nov 12, 2026): 13 friends joined with ARKHZZ — 17 of 30 uses left.
